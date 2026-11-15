@@ -1,0 +1,2 @@
+# Store Inventory System - sales.txt (completed sales only)
+# Format: saleId|dateTime|productId|productName|quantity|unitPrice|totalBill

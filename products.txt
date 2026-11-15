@@ -1,0 +1,13 @@
+# Store Inventory System - products.txt
+# Format: id|name|category|quantity|reorderLevel|price|discountedPrice|expiryDate
+# expiryDate is YYYY-MM-DD or NA. Lines starting with # are ignored.
+101|Basmati Rice 5kg|Grocery|40|10|520.00|520.00|2027-06-30
+102|Full Cream Milk 1L|Dairy|8|15|62.00|62.00|2026-10-18
+103|Whole Wheat Bread|Bakery|12|10|45.00|45.00|2026-10-14
+104|Cheddar Cheese 200g|Dairy|25|8|140.00|140.00|2026-10-21
+105|Notebook A4|Stationery|60|20|55.00|55.00|NA
+106|Ball Pen Blue|Stationery|5|30|10.00|10.00|NA
+107|Orange Juice 1L|Beverages|18|10|110.00|110.00|2026-12-15
+108|Sunflower Oil 1L|Grocery|3|10|165.00|165.00|2027-02-28
+109|Hand Wash 250ml|Personal Care|30|10|85.00|85.00|2028-01-31
+110|Chocolate Bar|Snacks|50|15|40.00|40.00|2026-10-20

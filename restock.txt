@@ -1,0 +1,3 @@
+# Store Inventory System - restock.txt
+# Format: requestId|productId|productName|currentQty|requestedQty|dateRequested|status|dateClosed
+# status is PENDING, FULFILLED or CANCELLED. PENDING lines are kept in FIFO order.
