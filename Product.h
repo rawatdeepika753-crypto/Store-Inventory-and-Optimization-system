@@ -1,3 +1,7 @@
+<<<<<<< HEAD
+=======
+//Handles all the product management operations 
+>>>>>>> rebuild-contributions
 // Product.h - shared data model used by ALL modules.
 // Product      : one node of the singly linked list (the shared in-memory collection).
 // SaleRecord   : one completed sale (stored in sales.txt).

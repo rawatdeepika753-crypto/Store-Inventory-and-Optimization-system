@@ -1,3 +1,7 @@
+<<<<<<< HEAD
+=======
+@@ -0,0 +1,219 @@
+>>>>>>> rebuild-contributions
 #include "Utils.h"
 
 #include <cctype>

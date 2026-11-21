@@ -1,4 +1,8 @@
+<<<<<<< HEAD
 // ProductManager.h - Member 1: product management on a singly linked list + binary-search index.
+=======
+// ProductManager.h -  product management on a singly linked list + binary-search index.
+>>>>>>> rebuild-contributions
 #pragma once
 #include <vector>
 

@@ -1,3 +1,7 @@
+<<<<<<< HEAD
+=======
+// Declares functions related to sales management.
+>>>>>>> rebuild-contributions
 // SalesManager.h - Member 2: selling products, bills, sales history.
 #pragma once
 #include <vector>

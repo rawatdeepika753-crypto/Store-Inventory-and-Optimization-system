@@ -1,3 +1,8 @@
+<<<<<<< HEAD
+=======
+// Handles the process of selling a product.
+
+>>>>>>> rebuild-contributions
 #include "SalesManager.h"
 
 #include <iomanip>

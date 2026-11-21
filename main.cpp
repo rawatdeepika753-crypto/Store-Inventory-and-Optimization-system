@@ -1,3 +1,7 @@
+<<<<<<< HEAD
+=======
+@@ -0,0 +1,22 @@
+>>>>>>> rebuild-contributions
 // main.cpp - entry point. Flow: main -> SystemManager -> Product/Sales/Inventory -> FileManager -> text files.
 // Optional argument: folder that holds products.txt, sales.txt and restock.txt (default: current folder).
 #include <iostream>

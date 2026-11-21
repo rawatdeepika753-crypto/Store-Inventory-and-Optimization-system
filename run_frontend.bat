@@ -1,3 +1,7 @@
+<<<<<<< HEAD
+=======
+@@ -0,0 +1,6 @@
+>>>>>>> rebuild-contributions
 @echo off
 REM Starts the Streamlit web interface of the Store Inventory System.
 cd /d "%~dp0"

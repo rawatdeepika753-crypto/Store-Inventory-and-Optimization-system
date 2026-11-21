@@ -1,3 +1,7 @@
+<<<<<<< HEAD
+=======
+@@ -0,0 +1,37 @@
+>>>>>>> rebuild-contributions
 // Utils.h - small helpers shared by all modules: safe console input and date handling.
 // (Extra file beyond the required list; it avoids duplicating input/date code in every module.)
 #pragma once
